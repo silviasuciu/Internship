@@ -1,4 +1,5 @@
-	<?xml version="1.0" ?>
+<?php header('Access-Control-Allow-Origin: *'); ?>	
+<?xml version="1.0" ?>
 	<languages>
 
 	         <python>
